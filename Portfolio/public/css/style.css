@@ -1,0 +1,29 @@
+
+h1 {
+	color: blue;
+	margin-left: 100px
+}
+
+.side-nav {
+	width: 300px;
+	background-color: #fff188;
+}
+
+.logo {
+	width: 220px;
+	height: 100px;
+	margin-top: 0px
+
+}
+h3 {
+	font-size: 36px;
+	margin-bottom: 40px;
+	margin-left: 18px
+}
+
+.carousel {
+	margin-left: 100px;
+	
+	margin-top: 60px;
+}
+
