@@ -9,7 +9,7 @@ export default class Tiles extends Component {
     this.state = {
     };
   }
-  componentWillMount(){
+  componentDidMount(){
     $(document).ready(function(){
       $('.carousel.carousel-slider').carousel({fullWidth: true});
     })

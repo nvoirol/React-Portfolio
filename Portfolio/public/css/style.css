@@ -6,7 +6,7 @@ h1 {
 
 .side-nav {
 	width: 300px;
-	background-color: #fff188;
+	background-color: #80deea
 }
 
 .logo {
@@ -17,13 +17,28 @@ h1 {
 }
 h3 {
 	font-size: 36px;
-	margin-bottom: 40px;
-	margin-left: 18px
+	margin-bottom: 20px;
+	margin-left: 35px;
+	margin-top: 25px;
 }
 
 .carousel {
-	margin-left: 100px;
 	
-	margin-top: 60px;
+	margin-left: 225px;
+	margin-top: 20px;
 }
 
+
+.waves-effect {
+	height: 16px
+}
+
+.bold {
+	height: 50px
+}
+
+.divider {
+	width: 2px
+	padding-left: 10px;
+	opacity: 
+}

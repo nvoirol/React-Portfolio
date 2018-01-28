@@ -17,6 +17,7 @@ export default class Header extends Component {
                 <li className= "name">
                 <h3>Nathan Voirol</h3>
                 </li>
+                <li className="divider"></li>
                 <li className= "bold">
                   <Link className="waves-effect waves-light" to="/">Home</Link>
                 </li>

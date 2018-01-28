@@ -9,7 +9,7 @@ export default class Textiles extends Component {
     this.state = {
     };
   }
-  componentWillMount(){
+  componentDidMount(){
     $(document).ready(function(){
       $('.carousel.carousel-slider').carousel({fullWidth: true});
     })
@@ -22,8 +22,13 @@ export default class Textiles extends Component {
             <div className="row">
               <div className="col s12 m9 l10">
                 <div className="carousel carousel-slider">
-                  <div className="carousel-item"> <img src="./images/TIL_green-floral.jpg"/></div> 
-                  <div className="carousel-item"> <img src="./images/TIL_mosaic-1.jpg"/></div> 
+                  <div className="carousel-item"> <img src="./images/fiber-1.jpg"/></div> 
+                  <div className="carousel-item"> <img src="./images/fiber-2.jpg"/></div> 
+                  <div className="carousel-item"> <img src="./images/fiber-3.jpg"/></div> 
+                  <div className="carousel-item"> <img src="./images/fiber-4.jpg"/></div> 
+                  <div className="carousel-item"> <img src="./images/fiber-5.jpg"/></div> 
+                  <div className="carousel-item"> <img src="./images/fiber-6.jpg"/></div> 
+                  <div className="carousel-item"> <img src="./images/fiber-7.jpg"/></div> 
                 </div>
               </div>
             </div>
