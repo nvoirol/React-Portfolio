@@ -19,6 +19,7 @@ export default class Textiles extends Component {
         <div>
           <Header/>
           <div className="container">
+           <span className="note">Please Swipe</span>
             <div className="row">
               <div className="col s12 m9 l10">
                 <div className="carousel carousel-slider">

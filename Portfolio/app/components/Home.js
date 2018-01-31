@@ -19,17 +19,13 @@ export default class Home extends Component {
     return (
         <div>
           <Header/>
-          <div className="container">
+          <div className="homeContainer">
             <div className="row">
               <div className="col s12 m9 l10">
-                <div className="carousel carousel-slider">
-                  <div className="carousel-item"> <img src="./images/TIL_green-floral.jpg"/></div> 
-                  <div className="carousel-item"> <img src="./images/TIL_mosaic-1.jpg"/></div> 
-                </div>
+                 <div className= "homeImage"> <img src="./images/star_1.jpg"/></div>      
               </div>
             </div>
           </div>
-
         </div>
     )     
   }

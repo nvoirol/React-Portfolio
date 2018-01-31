@@ -15,21 +15,17 @@ export default class Header extends Component {
             <div>
               <ul className= "side-nav fixed">
                 <li className= "name">
-                <h3>Nathan Voirol</h3>
+                  <h3>Nathan Voirol</h3>
                 </li>
-                <li className="divider"></li>
                 <li className= "bold">
                   <Link className="waves-effect waves-light" to="/">Home</Link>
-                </li>
+                </li>               
                 <li className= "bold">
                   <Link className="waves-effect waves-light" to="/textiles">Textiles</Link>
-                </li>
+                </li>               
                 <li className= "bold">
                   <Link className="waves-effect waves-light" to="/tiles">Tiles</Link>
-                </li>
-                <li className= "bold">
-                  <Link className="waves-effect waves-light" to="/paper">Paper</Link>
-                </li>
+                </li>              
               </ul>
             </div>
           </div>

@@ -19,11 +19,16 @@ export default class Tiles extends Component {
         <div>
           <Header/>
           <div className="container">
+            <span className="note">Please Swipe</span>
             <div className="row">
               <div className="col s12 m9 l10">
                 <div className="carousel carousel-slider">
-                  <div className="carousel-item"> <img src="./images/TIL_green-floral.jpg"/></div> 
-                  <div className="carousel-item"> <img src="./images/TIL_mosaic-1.jpg"/></div> 
+                  <div className="carousel-item"> <img src="./images/TIL_green-floral.jpg"/></div>;
+                  <div className="carousel-item"> <img src="./images/TIL_mosaic-1.jpg"/></div>;
+                  <div className="carousel-item"> <img src="./images/tile-2.jpg"/></div>;
+                  <div className="carousel-item"> <img src="./images/tile_1.jpg"/></div>;
+                  <div className="carousel-item"> <img src="./images/tile-4.jpg"/></div>; 
+                  <div className="carousel-item"> <img src="./images/tile-5.jpg"/></div>;
                 </div>
               </div>
             </div>

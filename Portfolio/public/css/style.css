@@ -1,25 +1,24 @@
-
-h1 {
-	color: blue;
-	margin-left: 100px
-}
-
 .side-nav {
 	width: 300px;
-	background-color: #80deea
-}
-
-.logo {
-	width: 220px;
-	height: 100px;
-	margin-top: 0px
+	background-color: #4dd0e1
 
 }
+
 h3 {
 	font-size: 36px;
 	margin-bottom: 20px;
-	margin-left: 35px;
-	margin-top: 25px;
+	margin-left: 30px;
+	margin-top: 0px;
+	padding-top: 30px;
+	font-family: 'Josefin Slab', serif
+}
+
+.name {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: #0097a7;
+	height: 100px	
+
 }
 
 .carousel {
@@ -28,17 +27,41 @@ h3 {
 	margin-top: 20px;
 }
 
-
 .waves-effect {
 	height: 16px
 }
 
 .bold {
-	height: 50px
+	height: 50px;
+	font-family: 'Noto Sans', sans-serif
 }
 
-.divider {
-	width: 2px
-	padding-left: 10px;
-	opacity: 
+
+.homeImage {
+	width: 800px;
+	height: auto;
+	padding-left: 550px;
+	padding-top: 100px;
 }
+
+.note {
+	padding-left: 580px;
+	font-family: 'Josefin Slab', serif
+	font-size: 20px;
+	opacity: .2
+}
+
+span {
+	opacity: 60;
+}
+
+
+
+
+
+
+
+
+
+
+
